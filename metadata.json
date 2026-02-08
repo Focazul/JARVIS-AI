@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS - Assistente Pessoal",
+  "description": "Assistente inteligente para gerenciamento de alarmes e tarefas via chat e voz.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
